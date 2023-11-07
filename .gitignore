@@ -1,4 +1,25 @@
 # Byte-compiled / optimized / DLL files
+# Python related
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.pyc.so
+
+# data files
+*.csv
+
+# log files
+logs/
+*.log
+
+# Jupyter notebook
+.ipynb_checkpoints/
+
+# Others
+.DS_Store
+*.swp
+*~
 __pycache__/
 *.py[cod]
 *$py.class
