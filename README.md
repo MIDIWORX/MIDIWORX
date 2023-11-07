@@ -2,7 +2,7 @@
 
 MIDIWORX is a music analyzing and synthesizing application. It utilizes machine learning techniques to critique music files and creates MIDI files based on the analysis.
 
-This code is licensed under the GNU 3.0 license and was developed with the assistance of AI and is copyright 2023 Nick Susco II. Users are permitted to use this source code for educational, entertainment, and professional purposes but are strongly encouraged to colloborate on the original project and startup MIDIWORX. This license contains no warranty, and is given for free on an AS IS basis. Please.use resposnibly amd preferably for the betterment of all living things on Planet Earth and The Universe.
+This code is licensed under the GPL 3.0 license and was developed with the assistance of AI and is copyright 2023 Nick Susco II. Users are permitted to use this source code for educational, entertainment, and professional purposes but are strongly encouraged to colloborate on the original project and startup MIDIWORX. This license contains no warranty, and is given for free on an AS IS basis. Please.use resposnibly amd preferably for the betterment of all living things on Planet Earth and The Universe.
 
 MIDIWORX | SUSCONET Creator Nick Susco II welcomes music indusyry professionals to provide their constructive feedback and be involved in the evolution of the applicaton.
 If youre interested in being involved in a substaintial way, please contact Nick at susconet@outlook.com | amazingsound6@gmail.com
